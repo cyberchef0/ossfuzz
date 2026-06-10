@@ -1,4 +1,4 @@
-# OSS-Fuzz Lab – Vulnerability & Patch Analysis
+# OSS-Fuzz  Vulnerability & Patch Analysis
 
 ## Repository layout
 

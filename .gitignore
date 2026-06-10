@@ -1,0 +1,15 @@
+# Build artifacts
+fuzz_vulnerable
+fuzz_patched
+*.o
+
+# Fuzzer output
+corpus/
+findings/
+crash-*
+timeout-*
+oom-*
+
+# OS junk
+.DS_Store
+Thumbs.db
